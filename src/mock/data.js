@@ -38,7 +38,7 @@ export const projectsData = [
     info: 'A suite of web based, Machine Learning tools that shorten the distance between having an idea and bringing it to life ',
     info2: 'Technologies: React, Node, Python, AWS, PyTorch, MySQL',
     url: 'https://www.vizcom.co/',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://github.com/Aquahugs/Vizcom', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
