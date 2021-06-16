@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: `I was born and raised in Detroi, MI. Currently 
+  paragraphOne: `I was born and raised in Detroit, MI. Currently 
   I spend most of my time building applications for the web. My favorite techstack to use is React, Node, and MySql, 
   although I am flexible`,
   paragraphTwo: `My day job is as a UI developer at United Wholesale Mortgage, the #1 Mortgage Lender. In my free time, 
