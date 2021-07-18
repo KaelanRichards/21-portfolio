@@ -21,8 +21,7 @@ export const aboutData = {
   paragraphOne: `I was born and raised in Detroit, MI. Currently 
   I spend most of my time building applications for the web. My favorite techstack to use is React, Node, and MySql, 
   although I am flexible`,
-  paragraphTwo: `My day job is as a UI developer at United Wholesale Mortgage, the #1 Mortgage Lender. In my free time, 
-  I work on Vizcom, look below for more information.  `,
+  paragraphTwo: `Currently, I reside in Moutain View, CA and am happily grinding the days away building Vizcom.  `,
   paragraphThree: `Besides the time I spend behind a computer, I stay very active playing tennis, golf, and whatever 
   else will allow me to spend time outside.`,
   resume:
